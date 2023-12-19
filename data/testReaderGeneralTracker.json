@@ -1,0 +1,30 @@
+{
+  "restaurants": [
+    {
+      "name": "Icy Bar",
+      "rating": 4,
+      "cuisine": "Taiwanese",
+      "dishes": [
+        {
+          "price": 16,
+          "order again": true,
+          "name": "Mango Mochi Shaved Icy"
+        }
+      ],
+      "average price": 16,
+      "times visited": 1,
+      "meal type": "DESSERT"
+    },
+    {
+      "name": "Danbo Ramen",
+      "rating": 5,
+      "dishes": [{
+        "price": 13,
+        "order again": false,
+        "name": "Miso Ramen"
+      }],
+      "average price": 13,
+      "times visited": 3
+    }
+  ]
+}

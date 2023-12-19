@@ -1,0 +1,102 @@
+{"restaurants": [
+    {
+        "name": "Baan Wasana",
+        "rating": 4,
+        "cuisine": "Thai",
+        "dishes": [
+            {
+                "price": 8,
+                "order again": false,
+                "name": "Thai Spring Rolls"
+            },
+            {
+                "price": 18,
+                "order again": false,
+                "name": "Pad Thai"
+            }
+        ],
+        "average price": 13,
+        "times visited": 1,
+        "meal type": "DINNER"
+    },
+    {
+        "name": "Chickpea",
+        "rating": 3,
+        "cuisine": "Mediterranean",
+        "dishes": [
+            {
+                "price": 26,
+                "order again": false,
+                "name": "Sabich Platter"
+            },
+            {
+                "price": 17,
+                "order again": false,
+                "name": "Falafel Pita"
+            }
+        ],
+        "average price": 21,
+        "times visited": 1,
+        "meal type": "LUNCH"
+    },
+    {
+        "name": "Baoguette Vietnamese Bistro",
+        "rating": 5,
+        "cuisine": "Vietnamese",
+        "dishes": [
+            {
+                "price": 9,
+                "order again": false,
+                "name": "Grilled Lemongrass Pork Baoguette"
+            },
+            {
+                "price": 14,
+                "order again": false,
+                "name": "Pho Dac Biet"
+            }
+        ],
+        "average price": 11,
+        "times visited": 1,
+        "meal type": "LUNCH"
+    },
+    {
+        "name": "Icy Bar",
+        "rating": 4,
+        "cuisine": "Taiwanese",
+        "dishes": [
+            {
+                "price": 16,
+                "order again": false,
+                "name": "Mango Mochi Shaved Icy"
+            },
+            {
+                "price": 8,
+                "order again": false,
+                "name": "Bubble Tea"
+            }
+        ],
+        "average price": 12,
+        "times visited": 2,
+        "meal type": "DESSERT"
+    },
+    {
+        "name": "OEB Breakfast Co",
+        "rating": 4,
+        "cuisine": "Canadian",
+        "dishes": [
+            {
+                "price": 20,
+                "order again": false,
+                "name": "Soul in a bowl"
+            },
+            {
+                "price": 22,
+                "order again": false,
+                "name": "Korean bulgogi benny"
+            }
+        ],
+        "average price": 21,
+        "times visited": 1,
+        "meal type": "BRUNCH"
+    }
+]}

@@ -1,0 +1,20 @@
+{"restaurants": [{
+    "name": "Baan Wasana",
+    "rating": 5,
+    "cuisine": "Thai",
+    "dishes": [
+        {
+            "price": 8,
+            "order again": false,
+            "name": "Thai Spring Rolls"
+        },
+        {
+            "price": 18,
+            "order again": false,
+            "name": "Pad Thai"
+        }
+    ],
+    "average price": 0,
+    "times visited": 1,
+    "meal type": "DINNER"
+}]}
